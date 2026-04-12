@@ -1,8 +1,8 @@
-# Antigravity Chess Analyzer
+# Chess Analyzer
 
-![Antigravity Chess Analyzer Screenshot](public/screenshot.png)
+![Chess Analyzer Screenshot](public/screenshot.png)
 
-Antigravity Chess Analyzer is a sleek, modern, and high-performance chess analysis tool built with React and powered by Stockfish. It provides deep move evaluations, multiple variants, and a premium user experience designed for serious chess enthusiasts.
+Chess Analyzer is a sleek, modern, and high-performance chess analysis tool built with React and powered by Stockfish. It provides deep move evaluations, multiple variants, and a premium user experience designed for serious chess enthusiasts.
 
 ## Features
 
@@ -15,7 +15,7 @@ Antigravity Chess Analyzer is a sleek, modern, and high-performance chess analys
 
 ## Live Demo
 
-<a href="https://antigravity-chess-analyzer.vercel.app/" target="_blank">Visit the Live Demo</a>
+<a href="https://chess-analyzer-white.vercel.app/" target="_blank">Visit the Live Demo</a>
 
 
 ## Getting Started
@@ -29,12 +29,12 @@ Antigravity Chess Analyzer is a sleek, modern, and high-performance chess analys
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/bariskisir/AntigravityChessAnalyzer.git
+   git clone https://github.com/bariskisir/ChessAnalyzer.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd AntigravityChessAnalyzer
+   cd ChessAnalyzer
    ```
 
 3. Install dependencies:
